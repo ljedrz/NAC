@@ -16,26 +16,26 @@ Not at all; it is only considered irrelevant, and expect to be treated as if you
 
 This is not the place for it - it's a code repository only; there are a lot of _actual_ communities where this is encouraged, feel free to do it there.
 
-#### 5. Why is there no list of violations?
+#### 5. What if I don't like a contributor's name, pfp, or what they do/say outside of the repository?
+
+You're thinking in terms of personal identity again; feel free to use something like [Greasemonkey](https://en.wikipedia.org/wiki/Greasemonkey) to erase/change it locally, but don't expect the repository owners to do anything about it.
+
+#### 6. Why is there no list of violations?
 
 Everyone has a different level of sensitivity, so it would be impractical to try to create an exhaustive one. If it can be considered personal, it's discouraged.
 
-#### 6. Why are there no details of penalties/enforcement?
+#### 7. Why are there no details of penalties/enforcement?
 
 As with the previous point, there is no "one size fits all" measurement of severity of violations. This is at the repository owners' discretion.
 
-#### 7. Why is there no contact information?
+#### 8. Why is there no contact information?
 
 Since a code repository is not a community, there are no dedicated moderators; just tag one of the owners and they will address it when they have the time.
 
-#### 8. But doesn't all this mean we're at the mercy of the owners of the repository?
+#### 9. But doesn't all this mean we're at the mercy of the owners of the repository?
 
 You're _always_ at the mercy of the owners of the repository, regardless of how verbose and precise the code of conduct is. This one just doesn't suggest otherwise.
 
-#### 9. Isn't this just a variant of [NCoC](https://github.com/domgetter/NCoC)?
+#### 10. Isn't this just a variant of [NCoC](https://github.com/domgetter/NCoC)?
 
 While there are some similarities between NAC and NCoC in terms of observations and recommendations, NAC is tailored to code repositories, and was created in order to promote the idea that they are not really communities and that they shouldn't be treated as such. It is also technically _a_ code of conduct.
-
-#### 10. Why is this FAQ not part of the code of conduct?
-
-This code of conduct is just a concise guideline; the FAQ only serves as a rationale for its existence.
